@@ -1,0 +1,18 @@
+.payment-status {
+    padding: 10px;
+    color: #FFFFFF;
+    width: 100px;
+    margin: 0 auto;
+}
+
+.payment-status.paid {
+    background-color: #2CC017;
+}
+
+.payment-status.unpaid {
+    background-color: #D3BB43;
+}
+
+.payment-status.delayed {
+    background-color: #F44336;
+}
